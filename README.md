@@ -1,4 +1,4 @@
-# car-sales-dashboard-in-ibm-cognoscenti
+# car-sales-dashboard-in-ibm-cognos
 The IBM Cognos car sales dashboard offers insights on sales, inventory, and customer demographics, empowering dealerships to optimize inventory, target markets effectively, and enhance customer satisfaction.
 The IBM Cognos car sales dashboard provides a comprehensive overview of sales performance, inventory levels, and customer insights for automotive dealerships. It integrates data from various sources such as sales transactions, inventory databases, and customer profiles to deliver actionable insights for decision-makers.
 <br>
